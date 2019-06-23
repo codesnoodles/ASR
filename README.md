@@ -12,7 +12,7 @@ data_thchs30.tgz [OpenSLR国内镜像](http://cn-mirror.openslr.org/resources/1
 该数据集的介绍请参考[THCHS-30：一个免费的中文语料库](https://blog.csdn.net/sut_wj/article/details/70662181)
 
 在该数据集中，已经分好训练集、验证集和测试集（分别在train、dev、和test文件夹中），其中训练集有10000个样例，验证集有893个样例，测试集有2495个样例，每个样例大约是10秒左右的语音段。
-在thchs30这个文件夹里包含了索引性质的文件（cv和dev好像是一毛一样的）
+在thchs30这个文件夹里包含了索引性质的文件
 ![thchs30文件夹中的文件](https://upload-images.jianshu.io/upload_images/8958330-9439e9311bc127fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/620)
 wav.txt是音频文件的相对路径
 ![dev.wav.txt](https://upload-images.jianshu.io/upload_images/8958330-51cf497aa87f1c01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
